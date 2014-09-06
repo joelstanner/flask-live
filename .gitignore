@@ -1,0 +1,5 @@
+liveflask/bin
+liveflask/lib
+liveflask/include
+liveflask/.Python
+*.pyc
